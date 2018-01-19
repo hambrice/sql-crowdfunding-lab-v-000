@@ -29,3 +29,12 @@ INSERT INTO users (name, age) VALUES ("Eve", 69);
 INSERT INTO users (name, age) VALUES ("Allan", 37);
 INSERT INTO users (name, age) VALUES ("Ode", 31);
 INSERT INTO users (name, age) VALUES ("Hart", 32);
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (600, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (600, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (600, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (600, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (600, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (600, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (600, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (600, 1, 1);
