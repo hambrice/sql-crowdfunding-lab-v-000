@@ -1,1 +1,1 @@
-INSERT INTO projects ()
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("hoverboards", "science", 2000000, "01/01/2018", "04/20/2018")
