@@ -1,1 +1,1 @@
-INSERT INTO project
+INSERT INTO projects ()
