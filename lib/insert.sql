@@ -8,3 +8,5 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("avocado toast", "science", 44444, "01/19/2018", "04/18/2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("therapist cats", "art", 96300, "04/01/2018", "04/26/2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("hovercats", "science", 9876543, "01/11/2018", "03/20/2018");
+
+INSERT INTO users (name, age) VALUES ("Jim", 19);
