@@ -10,3 +10,22 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("hovercats", "science", 9876543, "01/11/2018", "03/20/2018");
 
 INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Pam", 53);
+INSERT INTO users (name, age) VALUES ("Gail", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
+INSERT INTO users (name, age) VALUES ("Jim", 19);
